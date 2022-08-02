@@ -1,6 +1,6 @@
 - Feature Name: trace_end_at_lcp_option
 - Start Date: 2022-7-26
-- RFC PR:
+- RFC PR: https://github.com/TracerBench/tracerbench/pull/430
 - TracerBench Issue:
 
 # Summary
